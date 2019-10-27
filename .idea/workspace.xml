@@ -176,7 +176,7 @@
       <workItem from="1572157024944" duration="221000" />
       <workItem from="1572157269547" duration="33000" />
       <workItem from="1572157321545" duration="2198000" />
-      <workItem from="1572159589786" duration="254000" />
+      <workItem from="1572159589786" duration="1492000" />
     </task>
     <task id="LOCAL-00001" summary="拦截器入门">
       <created>1572158447746</created>
@@ -199,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572159258120</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change xml">
+      <created>1572160045025</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572160045025</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +227,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="拦截器入门" />
-    <option name="LAST_COMMIT_MESSAGE" value="拦截器入门" />
+    <MESSAGE value="change xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="change xml" />
   </component>
 </project>
