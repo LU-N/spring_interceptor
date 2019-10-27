@@ -6,15 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="045e7488-95ba-42d4-ac37-fc2a3af7b1f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/interceptor/MyInterceptor1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/itheima_spring_interceptor-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/itheima_spring_interceptor-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/itheima_spring_interceptor-1.0-SNAPSHOT/WEB-INF/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/itheima_spring_interceptor-1.0-SNAPSHOT/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="045e7488-95ba-42d4-ac37-fc2a3af7b1f2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,8 +167,16 @@
       <workItem from="1572156735368" duration="272000" />
       <workItem from="1572157024944" duration="221000" />
       <workItem from="1572157269547" duration="33000" />
-      <workItem from="1572157321545" duration="1048000" />
+      <workItem from="1572157321545" duration="1379000" />
     </task>
+    <task id="LOCAL-00001" summary="拦截器入门">
+      <created>1572158447746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572158447746</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,5 +192,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="拦截器入门" />
+    <option name="LAST_COMMIT_MESSAGE" value="拦截器入门" />
   </component>
 </project>
