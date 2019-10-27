@@ -176,6 +176,7 @@
       <workItem from="1572157024944" duration="221000" />
       <workItem from="1572157269547" duration="33000" />
       <workItem from="1572157321545" duration="2198000" />
+      <workItem from="1572159589786" duration="254000" />
     </task>
     <task id="LOCAL-00001" summary="拦截器入门">
       <created>1572158447746</created>
@@ -209,7 +210,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
