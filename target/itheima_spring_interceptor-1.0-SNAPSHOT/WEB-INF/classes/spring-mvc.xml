@@ -25,18 +25,13 @@
     <context:component-scan base-package="com.controller"/>
 
 
-<!--    &lt;!&ndash;配置拦截器&ndash;&gt;-->
-<!--    <mvc:interceptors>-->
-<!--        <mvc:interceptor>-->
-<!--            &lt;!&ndash;对哪些资源执行拦截操作&ndash;&gt;-->
-<!--            <mvc:mapping path="/**"/>-->
-<!--            <bean class="com.interceptor.MyInterceptor2"/>-->
-<!--        </mvc:interceptor>-->
-<!--        <mvc:interceptor>-->
-<!--            &lt;!&ndash;对哪些资源执行拦截操作&ndash;&gt;-->
-<!--            <mvc:mapping path="/**"/>-->
-<!--            <bean class="com.interceptor.MyInterceptor1"/>-->
-<!--        </mvc:interceptor>-->
-<!--    </mvc:interceptors>-->
+    <!--配置拦截器-->
+    <mvc:interceptors>
+        <mvc:interceptor>
+            <!--对哪些资源执行拦截操作-->
+            <mvc:mapping path="/**"/>
+            <bean class="com.interceptor.MyInterceptor1"/>
+        </mvc:interceptor>
+    </mvc:interceptors>
 
 </beans>
